@@ -42,7 +42,7 @@ public class GUIMenuPrincipal extends JFrame {
     
 
     public GUIMenuPrincipal(Dimension dimensao) {
-        setDefaultCloseOperation(DISPOSE_ON_CLOSE);
+        
         setSize(dimensao);
         setTitle("FastWine");
 
